@@ -60,4 +60,4 @@ Engine Market é um sistema completo de gestão para mercados, desenvolvido com 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
-Desenvolvido com ❤️ por [ruok-dev](https://github.com/ruok-dev)
+Desenvolvido por [ruok-dev](https://github.com/ruok-dev)
